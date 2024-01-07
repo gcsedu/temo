@@ -13,6 +13,10 @@
 .service-container{
     padding-top: 100px;
 }
+.white-text {
+    color: white;
+}
+
 .card{
     box-shadow: 10px 38px 143px 5px rgba(246, 244, 244, 0.61);
 -webkit-box-shadow: 10px 38px 143px 5px rgba(246, 239, 239, 0.781);
