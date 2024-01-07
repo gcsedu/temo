@@ -1,0 +1,26 @@
+.third{
+    background-color: #580e80;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+}
+.bx{
+    color: rgb(180, 188, 237);
+    padding: 10px;
+}
+.row{
+   color: rgb(255, 255, 255);
+}
+.contect{
+    background-color: black;
+    border-radius: 10px;
+    box-shadow: 10px 10px 72px 0px rgba(161, 156, 156, 0.97);
+    -webkit-box-shadow: 10px 10px 72px 0px rgba(198, 195, 198, 0.957);
+    -moz-box-shadow: 10px 10px 72px 0px rgba(216, 205, 205, 0.877);
+}

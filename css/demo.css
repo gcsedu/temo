@@ -1,0 +1,35 @@
+.forth{
+    background-color: #580e80;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+}
+.demo{
+    padding-top: 100px;
+}
+.demo-img{
+    box-shadow: 9px 14px 141px 19px rgba(227, 224, 224, 0.52);
+    -webkit-box-shadow: 9px 14px 141px 19px rgba(237, 233, 233, 0.872);
+    -moz-box-shadow: 9px 14px 141px 19px rgba(255, 249, 249, 0.52);
+    border-radius: 40%
+}
+.seework{
+    font-size: 2rem;
+    font-weight: 600;
+    padding-right: 20px;
+    text-shadow: 10px 10px 20px  black;
+}
+.github{
+    background-image: url();
+    border: 3px solid rgb(27, 27, 109);
+    border-radius: 20px;
+    box-shadow: -75px 43px 101px 25px rgba(23,23,23,0.46);
+-webkit-box-shadow: -75px 43px 101px 25px rgba(23,23,23,0.46);
+-moz-box-shadow: -75px 43px 101px 25px rgba(23,23,23,0.46);
+}

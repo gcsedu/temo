@@ -1,0 +1,20 @@
+.second{
+    background-color: #580e80;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+}
+.service-container{
+    padding-top: 100px;
+}
+.card{
+    box-shadow: 10px 38px 143px 5px rgba(246, 244, 244, 0.61);
+-webkit-box-shadow: 10px 38px 143px 5px rgba(246, 239, 239, 0.781);
+-moz-box-shadow: 10px 38px 143px 5px rgba(252, 246, 246, 0.61);
+}
